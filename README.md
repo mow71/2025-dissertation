@@ -1,5 +1,3 @@
-# 2025-dissertation
-
 ## Methodology
 
 This research adopts the Design Science Research (DSR) framework, following its six core activities:
