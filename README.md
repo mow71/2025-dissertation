@@ -14,7 +14,12 @@ With the rising popularity of New Mobility Services — such as car sharing, bik
 
 ## Repository Structure
 
-
+├── /docs/ # Documentation and academic publications 
+├── /models/ # ArchiMate EA models (initial and evaluated versions) 
+├── /evaluation/ # Evaluation data, expert interview protocols, criteria mappings 
+├── /tools/ # Supporting tools and scripts 
+├── /lit-review/ # Structured literature review and analysis 
+└── README.md
 
 
 ## Methodology
