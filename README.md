@@ -1,3 +1,22 @@
+# Enterprise Reference Architecture for Demand-Responsive Public Transport
+
+## Overview
+
+This repository contains research artifacts, models, and documentation developed in the context of the doctoral dissertation:
+
+**"Integration von bedarfsorientiertem Verkehr in klassische ÖPNV-Unternehmen – Entwurf eines Enterprise Referenz-Architekturmodells"**
+
+The work focuses on the integration of demand-responsive New Mobility Services (NMS) into the enterprise architectures (EA) of traditional, supply-oriented public transport (ÖPNV) companies. A central contribution is the design, evaluation, and presentation of a reference enterprise architecture (REA), developed following the Design Science Research (DSR) paradigm.
+
+## Research Context
+
+With the rising popularity of New Mobility Services — such as car sharing, bike rentals, and on-demand ride pooling — public transport providers face increasing pressure to adapt their IT systems and service architectures. This project proposes a structured reference model that extends existing EA frameworks (e.g., ITVU) to facilitate the integration of NMS into public transport enterprises.
+
+## Repository Structure
+
+
+
+
 ## Methodology
 
 This research adopts the Design Science Research (DSR) framework, following its six core activities:
